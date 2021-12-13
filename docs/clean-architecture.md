@@ -3,6 +3,8 @@
 ## 📕 Articles
 - [An easy and practical approach to structuring Golang applications](https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189)
 - [Beautify your Golang project](https://itnext.io/beautify-your-golang-project-f795b4b453aa)
+- [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/)
+- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 ## 📺 Videos
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
 - [Clean architecture in Go. How to organize a project structure?](https://www.youtube.com/watch?v=goC-gCNWhS4)
@@ -19,3 +21,4 @@
 - [MBvisti/weight-tracker-article](https://github.com/MBvisti/weight-tracker-article)
 - [s1s1ty/go-mysql-crud](https://github.com/s1s1ty/go-mysql-crud)
 - [percybolmer/ddd-go/clean-architecture](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
+- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - a complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
