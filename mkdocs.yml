@@ -102,6 +102,7 @@ nav:
   - Project Structure : project-structure.md
   - Reflection: reflection.md
   - Software Architecture : software-architecture.md
+  - Tests: tests.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
