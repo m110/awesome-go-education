@@ -18,6 +18,7 @@
 - [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 - [Consuming A RESTful API With Go](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
 - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
+- [Common Anti-Patterns in Go Web Applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
